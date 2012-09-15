@@ -1,0 +1,5 @@
+Se pretende modelar un sistema de cuentas personales de un banco.
+Las mismas pueden ser cuenta corriente o caja de ahorros.
+Las cuentas corrientes tienen un débito de $2 por cada extracción posterior a la quinta.
+Las cajas de ahorro, en cambio, no tienen débitos adicionales, pero permiten extraer $1000 como máximo.
+Cada cuenta tiene un "Cliente" como titular de la misma.
